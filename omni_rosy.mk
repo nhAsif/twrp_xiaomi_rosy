@@ -33,6 +33,6 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 PRODUCT_DEVICE := rosy
 PRODUCT_NAME := omni_rosy
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Xiaomi
+PRODUCT_MODEL := Redmi 5
 PRODUCT_MANUFACTURER := xiaomi
-PRODUCT_RELEASE_NAME := Xiaomi Xiaomi
+PRODUCT_RELEASE_NAME := Xiaomi Redmi 5
